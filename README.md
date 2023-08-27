@@ -1,4 +1,4 @@
-# Py-SS-Sorter
+# Py-IMG-Sorter
 Have you ever wanted to sort through all your pictures to find what you want to keep and delete?
 
 Well, with my basic sorter you can veiw all images and decide what you want to keep and what you don't.
