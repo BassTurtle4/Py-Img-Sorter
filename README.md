@@ -1,23 +1,5 @@
 # Py-IMG-Sorter
-Have you ever wanted to sort through all your pictures to find what you want to keep and delete?
 
-Well, with my basic sorter you can veiw all images and decide what you want to keep and what you don't.
+This was developed on Ubuntu, It should work on mac but is untested.
 
-
-
-```
-pip install Pillow
-pip install tkinter
-```
-
-You will only need these libaraires as it is quite basic.
-
-Controls:
-
-
-
-Keep: Right-Arrow key
-
-Delete: Left-Arrow key
-
-Exit: Up-Arrow key
+Run bash file "start.sh" to start the install process
